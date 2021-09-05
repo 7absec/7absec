@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aiktcian" target="blank"><img src="https://img.shields.io/twitter/follow/aiktcian?logo=twitter&style=for-the-badge" alt="aiktcian" /></a> </p>
 
-- 🔭 I’m currently working on **CoderHi**
+- 🔭 I’m currently working on **TravelBuddy**
 
 - 🌱 I’m currently learning **Networking**
 
