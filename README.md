@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Cybersecurity Analyst and frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7absec&label=Profile%20views&color=0e75b6&style=flat" alt="7absec" /> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=7absec)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7absec" alt="7absec" /></a> </p>
 
