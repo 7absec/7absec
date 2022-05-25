@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **Networking**
 
-- 📫 How to reach me **aaftab703khan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
