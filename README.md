@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7absec" alt="7absec" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/7absec" target="blank"><img src="https://img.shields.io/twitter/follow/aiktcian?logo=twitter&style=for-the-badge" alt="aiktcian" /></a> </p>
+<p align="left"> <a href="https://twitter.com/7absec" target="blank"><img src="https://img.shields.io/twitter/follow/aiktcian?logo=twitter&style=for-the-badge" alt="7absec" /></a> </p>
 
 - 🔭 I’m currently working on **TravelBuddy**
 
