@@ -513,22 +513,26 @@ A loan visualizer Android application.
 <br/>
 
 <p align="center">
-<i>Verify on <a href="https://www.credly.com/users/7absec">Credly</a>.</i>
+<i>Click any badge to verify it on <a href="https://www.credly.com/users/7absec">Credly</a>.</i>
 </p>
 
 <br/>
 
 <div align="center">
 
-| &nbsp; | Area | Certification | Status |
-|:------:|:-----|:--------------|:-------|
-| 🏰 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **Certified Red Team Professional (CRTP)** | `Certified` |
-| 🔌 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **Certified API Pentester (C-APIPen)** | `Certified` |
-| 🧪 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **CBFRPro** | `Certified` |
-| 🤖 | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | **Claude Certified Architect** (Anthropic) | `Certified` |
-| ✨ | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | **Google Cloud Partner Specialist (Gemini)** | `Certified` |
-| ☁️ | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | **Microsoft Azure AI certifications** (multiple) | `Certified` |
-| 🛡️ | ![Governance](https://img.shields.io/badge/Governance-16A34A?style=flat-square) | **CISSP** | `In Progress` |
+| Badge | Area | Certification | Issuer | Issued |
+|:-----:|:-----|:--------------|:-------|:-------|
+| <a href="https://www.credly.com/badges/12ebb171-430d-46d6-9b64-7b60172542aa"><img src="https://images.credly.com/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" width="44" alt="Claude Certified Architect - Professional"/></a> | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | [**Claude Certified Architect · Professional**](https://www.credly.com/badges/12ebb171-430d-46d6-9b64-7b60172542aa) | Anthropic | `Oct 2026` |
+| <a href="https://www.credly.com/badges/12fa2596-258f-492d-903c-3cd569f56026"><img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" width="44" alt="Claude Certified Architect - Foundations"/></a> | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | [**Claude Certified Architect · Foundations**](https://www.credly.com/badges/12fa2596-258f-492d-903c-3cd569f56026) | Anthropic | `Jun 2026` |
+| <a href="https://www.credly.com/badges/4fbf8b5c-52dc-4b83-b90c-ab9ce11031ef"><img src="https://images.credly.com/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob" width="44" alt="Gemini Enterprise Agent Development"/></a> | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | [**Certified Partner Specialist · Gemini Enterprise Agent Development**](https://www.credly.com/badges/4fbf8b5c-52dc-4b83-b90c-ab9ce11031ef) | Google Cloud | `Jun 2026` |
+| <a href="https://www.credly.com/badges/0e4978de-5f7d-40e1-a1db-ee2180da2663"><img src="https://images.credly.com/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob" width="44" alt="Gemini Enterprise Deployment"/></a> | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | [**Certified Partner Specialist · Gemini Enterprise Deployment**](https://www.credly.com/badges/0e4978de-5f7d-40e1-a1db-ee2180da2663) | Google Cloud | `Jun 2026` |
+| <a href="https://www.credly.com/badges/51e6d80f-c517-4c5f-b093-8aa6044e6165"><img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="44" alt="Fortinet"/></a> | ![Security](https://img.shields.io/badge/Security-F97316?style=flat-square) | [**Fortinet Certified Fundamentals · Cybersecurity**](https://www.credly.com/badges/51e6d80f-c517-4c5f-b093-8aa6044e6165) | Fortinet | `Feb 2025` |
+| <a href="https://www.credly.com/badges/4ee0d8d6-77be-41b8-81bf-ec0081b958b2"><img src="https://images.credly.com/images/a30952f3-f354-4233-b02a-690ffe95d190/blob" width="44" alt="Fortinet"/></a> | ![Security](https://img.shields.io/badge/Security-F97316?style=flat-square) | [**Fortinet NSE 2 · Certified in Cybersecurity**](https://www.credly.com/badges/4ee0d8d6-77be-41b8-81bf-ec0081b958b2) | Fortinet | `Feb 2025` |
+| <a href="https://www.credly.com/badges/18567ab1-6f7b-497b-babe-6f861fdb40e2"><img src="https://images.credly.com/images/0dc7965b-8507-4312-9c12-1add6c50fa49/blob" width="44" alt="Fortinet"/></a> | ![Security](https://img.shields.io/badge/Security-F97316?style=flat-square) | [**Fortinet NSE 1 · Certified in Cybersecurity**](https://www.credly.com/badges/18567ab1-6f7b-497b-babe-6f861fdb40e2) | Fortinet | `Feb 2025` |
+| 🏰 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **Certified Red Team Professional (CRTP)** | Altered Security | `Certified` |
+| 🔌 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **Certified API Pentester (C-APIPen)** | The SecOps Group | `Certified` |
+| 🧪 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **CBFRPro** | &nbsp; | `Certified` |
+| ☁️ | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | **Azure AI certifications** (multiple) | Microsoft | `Certified` |
 
 </div>
 
