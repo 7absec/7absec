@@ -145,7 +145,7 @@ A self-running faceless cartoon channel factory: script, voice, edit and upload 
 </td>
 <td align="center" width="20%">
 <img width="60" src="https://img.icons8.com/fluency/96/certificate.png" alt="Certs"/><br/>
-<img src="https://img.shields.io/badge/10+-F97316?style=for-the-badge" alt="10+"/><br/><br/>
+<img src="https://img.shields.io/badge/15+-F97316?style=for-the-badge" alt="15+"/><br/><br/>
 <b>Security & AI<br/>Certifications</b>
 </td>
 <td align="center" width="20%">
@@ -513,26 +513,28 @@ A loan visualizer Android application.
 <br/>
 
 <p align="center">
-<i>Click any badge to verify it on <a href="https://www.credly.com/users/7absec">Credly</a>.</i>
+<i>Click any badge to verify it on Microsoft Learn or <a href="https://www.credly.com/users/7absec">Credly</a>.</i>
 </p>
 
 <br/>
 
 <div align="center">
 
-| Badge | Area | Certification | Issuer | Issued |
-|:-----:|:-----|:--------------|:-------|:-------|
+| Badge | Level | Certification | Issuer | Exam / Issued |
+|:-----:|:------|:--------------|:-------|:--------------|
+| <a href="https://learn.microsoft.com/en-us/users/omgdata/credentials/2e6bdf72ba083c70"><img src="https://images.credly.com/images/949a39df-8f97-47e8-806b-d996308dbe42/converted20260907-34-1jpf4q.png" width="44" alt="Agentic AI Business Solutions Architect"/></a> | ![Expert](https://img.shields.io/badge/Expert-E97627?style=flat-square) | [**Microsoft Certified: Agentic AI Business Solutions Architect**](https://learn.microsoft.com/en-us/users/omgdata/credentials/2e6bdf72ba083c70) | Microsoft | `AB-100` · `Jun 2026` |
+| <a href="https://learn.microsoft.com/en-us/users/omgdata/credentials/80649a4425a71f4b"><img src="https://images.credly.com/images/559ceee6-b135-4e3b-b0af-3820442ae6c5/converted20260907-32-mby5n7.png" width="44" alt="Cybersecurity Architect"/></a> | ![Expert](https://img.shields.io/badge/Expert-E97627?style=flat-square) | [**Microsoft Certified: Cybersecurity Architect**](https://learn.microsoft.com/en-us/users/omgdata/credentials/80649a4425a71f4b) | Microsoft | `SC-100` · `Jul 2026` |
+| <a href="https://learn.microsoft.com/en-us/users/omgdata/credentials/93bdd445acd7935f"><img src="https://images.credly.com/images/83a7b8ed-bcac-4a52-b83c-c1a7830b5517/converted20260907-32-t7hd7w.png" width="44" alt="Azure AI Apps and Agents Developer"/></a> | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Microsoft Certified: Azure AI Apps and Agents Developer**](https://learn.microsoft.com/en-us/users/omgdata/credentials/93bdd445acd7935f) | Microsoft | `AI-103` · `Jun 2026` |
+| <a href="https://learn.microsoft.com/en-us/users/omgdata/credentials/6baa06de4c12b78"><img src="https://images.credly.com/images/e5330ebd-7aa8-412e-8230-0bd5fa51167c/converted20260907-34-khrez2.png" width="44" alt="Cloud and AI Security Engineer"/></a> | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Microsoft Certified: Cloud and AI Security Engineer**](https://learn.microsoft.com/en-us/users/omgdata/credentials/6baa06de4c12b78) | Microsoft | `SC-500` · `Jul 2026` |
+| <a href="https://learn.microsoft.com/en-us/users/omgdata/credentials/21b121f42f3deb87"><img src="https://images.credly.com/images/be7ea1a4-dc2c-4a86-b9a3-da200492851a/converted20260907-33-jmb7uy.png" width="44" alt="Identity and Access Administrator"/></a> | ![Associate](https://img.shields.io/badge/Associate-107C10?style=flat-square) | [**Microsoft Certified: Identity and Access Administrator**](https://learn.microsoft.com/en-us/users/omgdata/credentials/21b121f42f3deb87) | Microsoft | `SC-300` · `Jun 2026` |
+| <a href="https://learn.microsoft.com/en-us/users/omgdata/credentials/7f4948148900514f"><img src="https://images.credly.com/images/869ffaa9-710d-4314-94f4-476d87025dd0/converted20260921-32-a4hgox.png" width="44" alt="AI Transformation Leader"/></a> | ![Specialty](https://img.shields.io/badge/Specialty-5C2D91?style=flat-square) | [**Microsoft Certified: AI Transformation Leader**](https://learn.microsoft.com/en-us/users/omgdata/credentials/7f4948148900514f) | Microsoft | `AB-731` · `Sep 2026` |
+| <a href="https://learn.microsoft.com/en-us/users/omgdata/credentials/4a912e3e4d6c5b06"><img src="https://images.credly.com/images/56f7b17f-8704-4179-87d9-b8f23d2f9325/converted20260919-31-mqgjqn.png" width="44" alt="AI Business Professional"/></a> | ![Specialty](https://img.shields.io/badge/Specialty-5C2D91?style=flat-square) | [**Microsoft Certified: AI Business Professional**](https://learn.microsoft.com/en-us/users/omgdata/credentials/4a912e3e4d6c5b06) | Microsoft | `AB-730` · `Sep 2026` |
+| <a href="https://learn.microsoft.com/en-us/users/omgdata/credentials/d3306fc271d3899a"><img src="https://images.credly.com/images/79d4c15f-c02f-4411-a9c5-71d4ee580961/converted20260907-32-sq59ia.png" width="44" alt="Security, Compliance, and Identity"/></a> | ![Fundamentals](https://img.shields.io/badge/Fundamentals-6C757D?style=flat-square) | [**Microsoft Certified: Security, Compliance, and Identity**](https://learn.microsoft.com/en-us/users/omgdata/credentials/d3306fc271d3899a) | Microsoft | `SC-900` · `Apr 2026` |
 | <a href="https://www.credly.com/badges/12ebb171-430d-46d6-9b64-7b60172542aa"><img src="https://images.credly.com/images/7583afbc-4aab-4c7d-8af4-d9af72786ab3/blob" width="44" alt="Claude Certified Architect - Professional"/></a> | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | [**Claude Certified Architect · Professional**](https://www.credly.com/badges/12ebb171-430d-46d6-9b64-7b60172542aa) | Anthropic | `Oct 2026` |
 | <a href="https://www.credly.com/badges/12fa2596-258f-492d-903c-3cd569f56026"><img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" width="44" alt="Claude Certified Architect - Foundations"/></a> | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | [**Claude Certified Architect · Foundations**](https://www.credly.com/badges/12fa2596-258f-492d-903c-3cd569f56026) | Anthropic | `Jun 2026` |
 | <a href="https://www.credly.com/badges/4fbf8b5c-52dc-4b83-b90c-ab9ce11031ef"><img src="https://images.credly.com/images/73e93208-0df3-435d-b58c-07c8ee6019d9/blob" width="44" alt="Gemini Enterprise Agent Development"/></a> | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | [**Certified Partner Specialist · Gemini Enterprise Agent Development**](https://www.credly.com/badges/4fbf8b5c-52dc-4b83-b90c-ab9ce11031ef) | Google Cloud | `Jun 2026` |
 | <a href="https://www.credly.com/badges/0e4978de-5f7d-40e1-a1db-ee2180da2663"><img src="https://images.credly.com/images/f874c419-9e95-4db2-85f9-4e45b89833f5/blob" width="44" alt="Gemini Enterprise Deployment"/></a> | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | [**Certified Partner Specialist · Gemini Enterprise Deployment**](https://www.credly.com/badges/0e4978de-5f7d-40e1-a1db-ee2180da2663) | Google Cloud | `Jun 2026` |
-| <a href="https://www.credly.com/badges/51e6d80f-c517-4c5f-b093-8aa6044e6165"><img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="44" alt="Fortinet"/></a> | ![Security](https://img.shields.io/badge/Security-F97316?style=flat-square) | [**Fortinet Certified Fundamentals · Cybersecurity**](https://www.credly.com/badges/51e6d80f-c517-4c5f-b093-8aa6044e6165) | Fortinet | `Feb 2025` |
-| <a href="https://www.credly.com/badges/4ee0d8d6-77be-41b8-81bf-ec0081b958b2"><img src="https://images.credly.com/images/a30952f3-f354-4233-b02a-690ffe95d190/blob" width="44" alt="Fortinet"/></a> | ![Security](https://img.shields.io/badge/Security-F97316?style=flat-square) | [**Fortinet NSE 2 · Certified in Cybersecurity**](https://www.credly.com/badges/4ee0d8d6-77be-41b8-81bf-ec0081b958b2) | Fortinet | `Feb 2025` |
-| <a href="https://www.credly.com/badges/18567ab1-6f7b-497b-babe-6f861fdb40e2"><img src="https://images.credly.com/images/0dc7965b-8507-4312-9c12-1add6c50fa49/blob" width="44" alt="Fortinet"/></a> | ![Security](https://img.shields.io/badge/Security-F97316?style=flat-square) | [**Fortinet NSE 1 · Certified in Cybersecurity**](https://www.credly.com/badges/18567ab1-6f7b-497b-babe-6f861fdb40e2) | Fortinet | `Feb 2025` |
-| 🏰 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **Certified Red Team Professional (CRTP)** | Altered Security | `Certified` |
-| 🔌 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **Certified API Pentester (C-APIPen)** | The SecOps Group | `Certified` |
-| 🧪 | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **CBFRPro** | &nbsp; | `Certified` |
-| ☁️ | ![AI](https://img.shields.io/badge/AI-7C3AED?style=flat-square) | **Azure AI certifications** (multiple) | Microsoft | `Certified` |
+| <img src="https://images.credly.com/images/cc6012d6-09be-4417-92bc-70b6017c64fa/3bfb8ebb-f7a1-46c6-bd36-9fd9fd6962af_cached_image_20260424-31-4lvx3v.png" width="44" alt="Offensive"/> | ![Offensive](https://img.shields.io/badge/Offensive-B91C1C?style=flat-square) | **Offensive Security:** CRTP (Altered Security) · C-APIPen (The SecOps Group) · CBFRPro · C3SA (CyberWarFare Labs) | Multiple | `Certified` |
 
 </div>
 
